@@ -6,9 +6,9 @@ class movie {
     public $genre;
 
     function __construct($_title, $_date, $_genre ){
-        $this->name = $_name;
-        $this->name = $_name;
-        $this->name = $_name;
+        $this->title = $_title;
+        $this->date = $_date;
+        $this->genre = $_genre;
 
     }
 
